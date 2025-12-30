@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: 0BSD
 
-const doh = 'https://dns.controld.com/efyyo1m52e'
-const dohjson = 'https://dns.controld.com/efyyo1m52e'
+const doh = 'https://dns.controld.com/2cq1vz6lrpl'
+const dohjson = 'https://dns.controld.com/2cq1vz6lrpl'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 const path = ''; // default allow all, must start with '/' if specified, eg. "/dns-query"
