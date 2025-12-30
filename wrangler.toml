@@ -1,4 +1,4 @@
-name = "doh-cf-workers"
+name = "doh-cf-workers-laptop"
 workers_dev = true
 # route = "example.com/dns-query"
 compatibility_date = "2025-09-30"
